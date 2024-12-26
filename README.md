@@ -5,13 +5,7 @@ x.mdlファイルは、Ventana Systems社Vensim用SDモデルファイルであ�
 
 時系列データを読込み、誤差評価出力を行うためには、有償ソフトウェアのVentana Systems社Vensim Profesionalあるいは、Vensim DSSの利用が必要となる。
 #
-DSの両面市場モデル -> DS_Case
-
-PSPの両面市場モデル -> PSP_Case
-
-Wiiの両面市場モデル -> Wii_Case
-
-PS3の両面市場モデル -> PS3_Case
+DSの両面市場モデル -> DS_Case. PSPの両面市場モデル -> PSP_Case. Wiiの両面市場モデル -> Wii_Case. PS3の両面市場モデル -> PS3_Case
 
 ![Chapter_2_Fig_2_5j](https://github.com/user-attachments/assets/a798e8e6-51b1-4233-b395-8215dfce4707)
 
