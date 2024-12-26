@@ -1,4 +1,4 @@
-# Chapter_2
+# Chapter_2_Platform_Market
 The following is written in Japanese:
 
 x.mdlファイルは、Ventana Systems社Vensim用SDモデルファイルである。無償ソフトウェアのVentana Systems社Vensim PLEを利用した実行が可能。モデル内の変数と定数名は日本語で表記されている。
